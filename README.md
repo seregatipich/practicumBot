@@ -1,17 +1,17 @@
 # sergipol99PracticumBot
-### Бот для информирования о статусе проверки домашнего задания на https://practicum.yandex.ru
+### A bot to keep you informed of the status of your homework check at https://practicum.yandex.ru
 ### Tech
 - Python 3.10
 - python-telegram-bot 13.14
-### Запуск бота:
-- Установите и активируйте виртуальное окружение
-- Установите зависимости из файла requirements.txt
+### Launching:
+- Install and activate venv
+- Install dependencies from requirements.txt:
 ```
 pip install -r requirements.txt
 ``` 
-- Запустите файл main.py:
+- Run main.py:
 ```
 python main.py
 ```
-### Автор
+### Author
 seregatipich
